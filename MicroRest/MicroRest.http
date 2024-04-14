@@ -1,0 +1,6 @@
+@MicroRest_HostAddress = http://localhost:5084
+
+GET {{MicroRest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
